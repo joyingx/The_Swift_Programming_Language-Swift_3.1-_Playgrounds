@@ -1,2 +1,2 @@
-# The_Swift_Programming_Language-Swift_3.1-_Playgrounds
-The Swift Programming Language (Swift_3.1) Playground Demo
+# The Swift Programming Language (Swift 3.1) Playgrounds
+从《The Swift Programming Language (Swift 3.1)》整理的样例playground
