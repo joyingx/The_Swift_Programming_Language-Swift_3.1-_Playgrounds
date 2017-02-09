@@ -1,3 +1,4 @@
+// https://developer.apple.com/library/prerelease/content/documentation/Swift/Conceptual/Swift_Programming_Language/StringsAndCharacters.html
 //: String Literals
 let someString = "Some string literal value"
 

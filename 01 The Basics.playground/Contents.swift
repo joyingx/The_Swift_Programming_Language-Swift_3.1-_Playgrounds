@@ -1,3 +1,4 @@
+// https://developer.apple.com/library/prerelease/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html
 //: Declaring Constants and Variables
 let maximumNumberOfLoginAttempts = 10
 var currentLoginAttempt = 0

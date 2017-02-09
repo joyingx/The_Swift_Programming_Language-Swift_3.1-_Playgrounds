@@ -1,3 +1,4 @@
+// https://developer.apple.com/library/prerelease/content/documentation/Swift/Conceptual/Swift_Programming_Language/CollectionTypes.html
 //: Arrays
 var someInts = [Int]()
 print("someInts is of type [Int] with \(someInts.count) items.")
